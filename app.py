@@ -66,7 +66,7 @@ Present the plan in bullet points and estimate the number of years required to c
 """ + Output_template
 
 
-outes = [
+routes = [
     {
         "name": "investment",
         "description": "Give investment advice if the debt ratio is less than 0.3",
